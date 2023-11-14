@@ -21,7 +21,7 @@
             <li><NuxtLink to="/rechte">Ihr Recht</NuxtLink></li>
           </ul>
         </div> <!-- Sidebar ende -->
-        <NuxtLink to="/" class="btn btn-ghost big-case text-xl h-1/2 m-3 text-black">Kfz-Sachverständiger <br>Damian Zelder</NuxtLink>
+        <NuxtLink to="/" class="btn btn-ghost big-case text-xl h-1/2 m-3 text-black">Kfz-Sachverständiger</NuxtLink>
       </div>
       <div class="navbar-center hidden lg:flex">
         <ul class="menu menu-horizontal px-1">
