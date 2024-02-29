@@ -1,5 +1,5 @@
 <template>
-<p>Rechte</p>
+<p>Ihr Rechte</p>
 </template>
 
 <script>
