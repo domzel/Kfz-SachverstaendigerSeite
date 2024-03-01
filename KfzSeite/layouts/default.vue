@@ -27,8 +27,7 @@
 
 <script setup lang="ts">
 import Navbar from "~/components/Navbar.vue";
-
-
-
-
+useHead({
+  title: "Kfz-Sachverständiger Damian Zelder"
+})
 </script>

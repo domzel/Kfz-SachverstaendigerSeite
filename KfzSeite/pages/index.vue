@@ -2,123 +2,97 @@
   <div class="container mx-auto flex flex-col items-center">
     <h1 class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-black md:text-5xl lg:text-6xl text-center dark:text-white">
       Herzlich Willkommen</h1>
-    <div class="carousel w-full">
-      <div id="slide1" class="carousel-item relative w-full">
-        <img src="/images/auto-repair.jpg" class="w-full" />
-        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-          <a href="#slide5" class="btn btn-circle">❮</a>
-          <a href="#slide2" class="btn btn-circle">❯</a>
+    <Slider />
+    <br />
+    <section class="container lg:flex mx-auto mt-10 p-5">
+      <div class="card card-compact w-96 bg-gray-300 shadow-xl">
+        <figure>
+          <img src="/images/startseiteFotoDamian.jpg" alt="Damian Zelder" />
+        </figure>
+        <div class="card-body">
+          <h3 class="card-title text-xl text-black">Telefon:</h3>
+          <p class="text-xl">02104/5043939</p>
+          <h3 class="card-title text-xl text-black">Mobil:</h3>
+            <p class="text-xl">0172 9999 006</p>
         </div>
       </div>
-      <div id="slide2" class="carousel-item relative w-full">
-        <img src="/images/diagnosis-repair.jpg" class="w-full" />
-        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-          <a href="#slide1" class="btn btn-circle">❮</a>
-          <a href="#slide3" class="btn btn-circle">❯</a>
-        </div>
-      </div>
-      <div id="slide3" class="carousel-item relative w-full">
-        <img src="/images/oil-change.jpg" class="w-full" />
-        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-          <a href="#slide2" class="btn btn-circle">❮</a>
-          <a href="#slide4" class="btn btn-circle">❯</a>
-        </div>
-      </div>
-      <div id="slide4" class="carousel-item relative w-full">
-        <img src="/images/sheet-metal-repair.jpg" class="w-full" />
-        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-          <a href="#slide3" class="btn btn-circle">❮</a>
-          <a href="#slide5" class="btn btn-circle">❯</a>
-        </div>
-      </div>
-      <div id="slide5" class="carousel-item relative w-full">
-        <img src="/images/workshop-repair.jpg" class="w-full" />
-        <div class="absolute flex justify-between transform -translate-y-1/2 left-5 right-5 top-1/2">
-          <a href="#slide4" class="btn btn-circle">❮</a>
-          <a href="#slide1" class="btn btn-circle">❯</a>
-        </div>
-      </div>
-    </div>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-    <p>Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt
-      ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum
-      . Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet,
-      consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat,
-      sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea
-      takimata sanctus est Lorem ipsum dolor sit amet.</p>
-  </div>
+      <article class="container flex flex-col items-center mt-10">
+        <h2
+            class="mb-4 text-4xl font-extrabold leading-none tracking-tight text-black md:text-5xl lg:text-6xl text-center">
+          Nach einem Autounfall überlassen Sie nichts dem Zufall
+        </h2>
+        <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48 dark:text-gray-300">
+          <a>
+            Sie hatten einen <strong>Verkehrsunfall</strong> und brauchen für Ihre Reparaturwerkstatt einen Schadengutachten oder wollen
+            die Schadenersatzforderung bei der gegnerischen Versicherung geltend machen?
+          Dann sind Sie bei mir genau richtig! Ich bewerte und erstelle professionell ein unabhängiges
+            <strong>Kfz-Unfallgutachten</strong> über den Schaden an Ihrem Fahrzeug auch bei Ihnen zu Hause.
+            Hier finden Sie auch eine Übersicht meiner <NuxtLink to="/leistungen" class="link link-hover"><strong>Leistungen</strong></NuxtLink>.
+        </a>
+        </p>
+      </article>
+    </section>
 
+    <section class="container lg:flex mx-auto mt-10 p-5">
+      <div class="m-2 p-10">
+        <div class="card card-compact w-96 bg-gray-300 shadow-xl">
+          <figure>
+            <img src="/images/felge.jpg" alt="Felge" class="w-full"/>
+          </figure>
+          <div class="card-body">
+            <h3 class="card-title text-xl text-black">Bagatellschaden</h3>
+            <p class="text-xl">
+              Sie hatten einen Unfall und es ist fast nichts zu sehen?
+              Unterschätzen Sie selbst einen
+              <NuxtLink to="/bagatellschaden" class="link link-hover"><strong>Bagatellschaden</strong></NuxtLink>
+              nicht!
+              Die heutigen Fahrzeuge werden immer mehr mit Kunststoffteilen verkleidet.
+              <NuxtLink to="/bagatellschaden" class="link link-hover">Weitere Informationen</NuxtLink>
+            </p>
+          </div>
+        </div>
+      </div>
+      <div class="m-2 p-10">
+      <div class="card card-compact w-96 bg-gray-300 shadow-xl">
+        <figure>
+          <img src="/images/airbag.jpg" alt="Airbag" class="w-full" />
+        </figure>
+        <div class="card-body">
+          <h3 class="card-title text-xl text-black">Totalschaden</h3>
+          <p class="text-xl">
+            Wenn der kalkulierte Schaden den Wiederbeschaffungswert des Fahrzeugs übersteigt, besteht immer noch
+            die Möglichkeit das Fahrzeug zu reparieren. Fachwerkstätte die über das notwendige Equipment verfügen,
+            sind in der Lage Ihr Fahrzeug, selbst bei starken Rahmenschaden, in dem oben genannten 130% Bereich
+            fachgerecht zu reparieren.
+            <NuxtLink to="/unfall/totalschaden" class="link link-hover">Weitere Informationen</NuxtLink>
+          </p>
+        </div>
+      </div>
+      </div>
+      <div class="m-2 p-10">
+        <div class="card card-compact w-96 bg-gray-300 shadow-xl">
+          <figure>
+           <img src="/images/autoStartseite.jpg" alt="Felge" class="w-full"/>
+          </figure>
+          <div class="card-body">
+            <h3 class="card-title text-xl text-black">Beweissicherung</h3>
+            <p class="text-xl">
+              Nach einem <strong>Autounfall</strong>, bei dem die Schuldfrage noch nicht eindeutig geklärt ist,
+              biete ich Ihnen eine <strong>kostenlose</strong> Beweissicherung an.
+              Die entstandenen Schäden werden fotografiert und als Beweismittel bis zu
+              Klärung der Schuldfrage archiviert.
+              <NuxtLink to="/beweissicherung" class="link link-hover">Weitere Informationen</NuxtLink>
+            </p>
+          </div>
+        </div>
+      </div>
+    </section>
+  </div>
 </template>
 
 <script setup>
+import Slider from "~/components/Slider.vue";
 definePageMeta( { layout: "default" })
-
-
 </script>
 
 <style scoped>

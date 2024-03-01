@@ -15,7 +15,7 @@
         <label tabindex="0" class="btn btn-ghost text-xl">
           Unfall
         </label>
-        <ul tabindex="0" class="mt-2 z-[1] p-2 shadow menu menu-sm dropdown-content bg-white rounded-box w-auto">
+        <ul tabindex="0" class="mt-2 z-[1] p-1 shadow menu menu-sm dropdown-content bg-white rounded-box w-auto">
           <li>
             <NuxtLink to="/unfall/begriffsinfo">Begriffsinfo</NuxtLink>
           </li>
@@ -33,6 +33,19 @@
       <NuxtLink to="/rechte" class="btn btn-ghost text-xl">Ihr Recht</NuxtLink>
       <NuxtLink to="/fotogalerie" class="btn btn-ghost text-xl">Fotogalerie</NuxtLink>
     </div>
+    <div class="flex flex-row">
+      <div class="flex flex-col text-lg font-normal text-black lg:text-xl sm:px-16 xl:px-48">
+        <p>Schadengutachten, Beweissicherung, kostenlose Beratung</p>
+        <p>24h Rufbereitschaft 0172 9999 006</p>
+      </div>
+      <a href="/">
+        <label tabindex="0" class="btn btn-ghost btn-wide rounded h-full w-full">
+          <div class="w-52 h-16">
+            <img src="/images/Logo.jpg" class="w-full h-full" alt="Logo Image" />
+          </div>
+        </label>
+      </a>
+    </div>
     </div>
 
 
@@ -43,11 +56,11 @@
     <br>
     <NuxtLink to="/leistungen" class="btn btn-ghost text-xl">Leistungen</NuxtLink>
     <br>
-    <div class="dropdown dropdown-end items-center">
-      <label tabindex="0" class="btn btn-ghost text-xl">
+    <div class="dropdown dropdown-end items-center ml-32">
+      <label tabindex="0" class="btn btn-ghost text-xl ml-24">
         Unfall
       </label>
-      <ul tabindex="0" class="shadow menu menu-sm dropdown-content bg-white rounded-box w-auto">
+      <ul tabindex="0" class="mr-10 shadow menu menu-sm dropdown-content bg-white rounded-box w-auto">
         <li>
           <NuxtLink to="/unfall/begriffsinfo">Begriffsinfo</NuxtLink>
         </li>
@@ -63,7 +76,7 @@
       </ul>
     </div>
     <br>
-    <NuxtLink to="/rechte" class="btn btn-ghost text-xl">Ihr Recht</NuxtLink>
+    <NuxtLink to="/rechte" class="btn btn-ghost text-xl mb-4">Ihr Recht</NuxtLink>
     <NuxtLink to="/fotogalerie" class="btn btn-ghost text-xl">Fotogalerie</NuxtLink>
   </div>
   <!-- End Mobile Menu -->
