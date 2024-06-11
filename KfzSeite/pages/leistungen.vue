@@ -5,8 +5,8 @@
           class="mb-4 text-4xl font-extrabold leading-none tracking-tight md:text-5xl lg:text-6xl text-center text-black">
         Mein Service für Sie
       </h2>
-      <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48">
-        <div class="collapse bg-gray-300">
+      <p class="mb-6 text-lg font-normal text-black lg:text-xl sm:px-16 xl:px-48">
+        <div class="collapse bg-white">
           <input type="checkbox" />
           <div class="collapse-title text-xl font-medium text-black">
             KFZ-Schadengutachten ohne Vorauszahlung
@@ -31,7 +31,7 @@
         </div>
       </p>
       <p class="mb-6 text-lg font-normal text-gray-500 lg:text-xl sm:px-16 xl:px-48">
-        <div class="collapse bg-gray-300">
+        <div class="collapse bg-white">
           <input type="checkbox" />
           <div class="collapse-title text-xl font-medium text-black">
             Kostenlose Beweissicherung bei offener Schuldfrage
@@ -53,7 +53,7 @@
       </p>
     </article>
     <div class="ml-32 pt-10">
-      <div class="card card-compact w-96 bg-gray-300 shadow-xl">
+      <div class="card card-compact w-96 bg-white shadow-xl">
         <div class="card-body">
           <h3 class="card-title text-xl text-black">Telefon:</h3>
           <p class="text-xl">02104/5043939</p>
