@@ -7,45 +7,29 @@
       <br />
       <div class="bg-white shadow-lg rounded-lg p-6 w-full">
         <div class="text-black">
-          <p>Wie verhalte ich mich nach einem Autounfall?</p>
+          <p>
+            Wenn der kalkulierte Schaden den Wiederbeschaffungswert des Fahrzeugs übersteigt, besteht immer
+            noch die Möglichkeit das Fahrzeug zu reparieren.</p>
           <br />
           <p>
-            Nach dem Autounfall gilt: Ruhe bewahren. Erste Hilfe leisten, falls Personen zu Schaden gekommen sind.
-            Unabhängig davon, ob der Unfall fremd- oder selbstverschuldet war, ist der Schreck unmittelbar nach dem
-            Unfall groß, und man fühlt sich oft hilflos.
+            Fachwerkstätte die über das notwendige Equipment verfügen, sind in der Lage Ihr Fahrzeug, selbst
+            bei starken Rahmenschaden, in dem oben genannten 130% Bereich fachgerecht zu reparieren.
           </p>
           <br />
           <p>
-            Wenn bei einem Autounfall keine Personen zu Schaden gekommen sind, versuchen Sie besonders bei einer
-            unklaren Schuldfrage, den Verlauf des Unfallgeschehens zu dokumentieren. Besonders wichtig ist die Stellung der am Unfall beteiligten Fahrzeuge, um bei einer Unfallrekonstruktion den
-            genauen Ablauf zu beweisen. Sollte die Möglichkeit bestehen, empfiehlt es sich, die Fahrzeuge in
-            Unfallposition zu belassen oder zumindest zu fotografieren. Anhand von Bildern, Kollisionswinkeln
-            und den Beschädigungen an den Fahrzeugen ist es erfahrenen Gutachtern später möglich, einen
-            detaillierten Ablauf des Unfalls zu rekonstruieren.
-          </p>
-          <br />
-          <p>
-            Sollten Sie unsicher sein, ob Sie eine Mitschuld oder alleinige Schuld an dem Unfall haben, äußern Sie diese Meinung nicht, bezahlen kein Verwarnungsgeld an die Polizei und unterschreiben
-            Sie vor allem keine derartig lautenden Erklärungen am Unfallort. Eine einmal
-            getätigte Unterschrift/Erklärung lässt sich schwer widerlegen.
-          </p>
-          <br />
-          <p>
-            Auch bei vermeintlichen Bagatellschäden empfiehlt es sich, die Polizei zu informieren, selbst wenn
-            der Unfallgegner ein Verschulden seinerseits einräumt.
-          </p>
-          <br />
-          <p>
-            Sollte der Eigentümer des beschädigten Fahrzeugs nicht anwesend sein, verlassen Sie nicht einfach den
-            Unfallort! Sie haben eine Wartepflicht! Ein Zettel an der Windschutzscheibe reicht nicht aus. Sie
-            sollten die Polizei über den Unfall informieren. Kommen Sie Ihrer Meldepflicht nicht nach, machen Sie
-            sich evtl. nach § 142 StGB der Unfallflucht strafbar.
-          </p>
-          <br />
-          <p>
-            Achten Sie auf Fahrzeuge mit Insassen oder Personen an der Unfallstelle, die den Unfall evtl. gesehen
-            haben und als Zeugen nützlich sein könnten. Lassen Sie sich deren Personalien geben bzw.
-            erfassen Sie Kennzeichen der Fahrzeuge.
+            Bei der sogenannten 130%-Regelung geht es um den Rahmen für die Reparaturwürdigkeit eines Kraftfahrzeuges.
+            Übersteigen die festgestellten Reparaturkosten nach einem Kfz-Sachverständigengutachten den Wert
+            (Wiederbeschaffungswert) eines Fahrzeuges, liegt normalerweise ein wirtschaftlicher Totalschaden vor.
+            Der Geschädigte soll durch die 130%-Regelung die Möglichkeit erhalten, das ihm vertraute Fahrzeug zu
+            behalten, sofern der Schaden einen Betrag von maximal 30% über dem Wiederbeschaffungswert nicht
+            überschreitet. Diesen Vorgang bezeichnet man als sogenanntes „Integritätsinteresse“ des Geschädigten.
+            Es wird also eine (eigentlich unwirtschaftliche) Instandsetzung im Rahmen bis zu 30% über dem
+            Wiederbeschaffungswert ermöglicht. Die Rechtsprechung hat hierbei jedoch Einschränkungen getroffen.
+            Als Nachweis für das Integritätsinteresse muss das Fahrzeug über einen weiteren Zeitraum von 6 Monaten
+            – gerechnet ab dem Zeitpunkt des Schadensereignisses – genutzt werden. Das Fahrzeug muss außerdem im
+            Rahmen der Vorgaben eines seriösen Kfz-Sachverständigengutachtens wiederhergestellt werden. Nachweis
+            für eine ordnungsgemäße Instandsetzung ist z.B. eine Reparaturrechnung, aus der hervorgeht, dass die
+            Instandsetzung des Fahrzeuges nach den Vorgaben des Sachverständigengutachtens durchgeführt wurde.
           </p>
         </div>
       </div>
