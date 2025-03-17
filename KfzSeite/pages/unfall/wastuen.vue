@@ -6,7 +6,6 @@
       </h2>
       <br />
       <div class="bg-white shadow-lg rounded-lg p-6 w-full">
-        <h2 class="text-xl font-semibold text-black mb-4">Haftpflichtschaden</h2>
         <div class="text-black">
           <p>Wie verhalte ich mich nach einem Autounfall?</p>
           <br />
